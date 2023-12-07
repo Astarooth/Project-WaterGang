@@ -1,0 +1,206 @@
+{
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2023-11-28 08:25:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-11-28 08:25:48 +0100"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2023-11-28 08:25:48 +0100"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2023-11-28 08:25:48 +0100"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2023-11-28 08:25:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2023-11-28 09:26:15 +0100",
+      "minecraft:taiga": "2023-11-28 09:26:16 +0100",
+      "minecraft:deep_ocean": "2023-11-28 09:30:45 +0100",
+      "minecraft:frozen_river": "2023-11-28 08:37:27 +0100",
+      "minecraft:snowy_plains": "2023-11-28 08:25:51 +0100",
+      "minecraft:cold_ocean": "2023-11-28 09:27:19 +0100",
+      "minecraft:lush_caves": "2023-11-28 09:25:15 +0100",
+      "minecraft:desert": "2023-11-28 09:18:51 +0100",
+      "minecraft:jungle": "2023-11-28 09:35:02 +0100",
+      "minecraft:ocean": "2023-11-28 09:32:29 +0100"
+    },
+    "done": false
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2023-11-28 09:13:52 +0100"
+    },
+    "done": true
+  },
+  "solcarrot:recipes/food_book": {
+    "criteria": {
+      "has_book": "2023-11-28 09:13:52 +0100",
+      "has_carrot": "2023-11-28 09:13:52 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2023-11-28 09:13:52 +0100"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2023-11-28 09:13:52 +0100"
+    },
+    "done": true
+  },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2023-11-28 09:13:52 +0100"
+    },
+    "done": true
+  },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2023-11-28 09:18:51 +0100"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2023-11-28 09:27:59 +0100",
+      "opened_chest": "2023-11-28 09:21:14 +0100"
+    },
+    "done": false
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2023-11-28 09:21:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2023-11-28 09:21:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2023-11-28 09:21:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2023-11-28 09:21:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2023-11-28 09:21:20 +0100"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2023-11-28 09:24:40 +0100"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2023-11-28 09:24:40 +0100"
+    },
+    "done": false
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2023-11-28 09:25:15 +0100"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2023-11-28 09:27:59 +0100"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2023-11-28 09:28:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2023-11-28 09:33:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2023-11-28 09:33:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-11-28 09:33:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2023-11-28 09:33:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2023-11-28 09:33:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2023-11-28 09:33:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2023-11-28 09:33:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2023-11-28 09:33:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2023-11-28 09:33:07 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

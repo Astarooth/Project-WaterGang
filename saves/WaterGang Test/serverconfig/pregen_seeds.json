@@ -1,0 +1,70 @@
+{
+	"level_seeds": [
+		{
+			"dim": "minecraft:the_end",
+			"seed": 164124578238464341
+		},
+		{
+			"dim": "minecraft:overworld",
+			"seed": 164124578238464341
+		},
+		{
+			"dim": "allthemodium:the_beyond",
+			"seed": 164124578238464341
+		},
+		{
+			"dim": "allthemodium:mining",
+			"seed": 164124578238464341
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": 164124578238464341
+		},
+		{
+			"dim": "mahoutsukai:reality_marble",
+			"seed": 164124578238464341
+		},
+		{
+			"dim": "allthemodium:the_other",
+			"seed": 164124578238464341
+		},
+		{
+			"dim": "bloodmagic:dungeon",
+			"seed": 164124578238464341
+		}
+	],
+	"structure_seeds": [
+		{
+			"dim": "minecraft:the_end",
+			"seed": 164124578238464341
+		},
+		{
+			"dim": "minecraft:overworld",
+			"seed": 164124578238464341
+		},
+		{
+			"dim": "allthemodium:the_beyond",
+			"seed": 164124578238464341
+		},
+		{
+			"dim": "allthemodium:mining",
+			"seed": 164124578238464341
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": 164124578238464341
+		},
+		{
+			"dim": "mahoutsukai:reality_marble",
+			"seed": 164124578238464341
+		},
+		{
+			"dim": "allthemodium:the_other",
+			"seed": 164124578238464341
+		},
+		{
+			"dim": "bloodmagic:dungeon",
+			"seed": 164124578238464341
+		}
+	]
+}
